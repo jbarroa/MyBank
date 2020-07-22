@@ -1,0 +1,17 @@
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\bin\Debug\Team1_MyBank.exe.config
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\bin\Debug\Team1_MyBank.exe
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\bin\Debug\Team1_MyBank.pdb
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\Team1_MyBank.csprojAssemblyReference.cache
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.Administrator.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.AdminLogin.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.ATM.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.MortagageCalc.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.MyBank.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.LoanApp.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.Login.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\Team1_MyBank.Properties.Resources.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\MyBank.Req.resources
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\Team1_MyBank.csproj.GenerateResource.cache
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\Team1_MyBank.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\Team1_MyBank.exe
+C:\Users\Jasmine\source\repos\Team1_MyBank\Team1_MyBank\obj\Debug\Team1_MyBank.pdb
